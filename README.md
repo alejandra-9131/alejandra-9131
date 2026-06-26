@@ -28,7 +28,7 @@ Actualmente estoy en formación continua, combinando mi conocimiento ambiental c
 
 ---
 
-## 📚 Aprendizaje actual
+## 📚 Mi Aprendizaje actual
 
 ```text
 📊 SQL & Bases de Datos     ████████████░░░░  75%
